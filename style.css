@@ -1,0 +1,50 @@
+#container
+{ width: 1000px;
+ margin-left: auto;
+ margin-right: auto;
+ 
+}
+
+	#logo
+{
+background-color: #253530;
+color: white;
+text-align: center;
+padding: 12px;
+}
+
+	#menu 
+{background: lightgray; 
+width: 980x;
+min-height: 35px;
+padding: 10px;
+text-align: center;
+}
+
+	#reklama
+{ 
+float: left;
+width: 160px;
+min-height:620px;
+text-align: center 
+}
+
+	#zawartosc 
+{float: left;
+width: 820px;
+
+padding: 10px;
+background-color: lightgray;
+
+}
+
+
+
+	#footer
+{ clear: both;
+background-color:black;
+color: white;
+text-align: center;
+padding:10px;
+
+}
